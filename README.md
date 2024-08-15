@@ -4,6 +4,6 @@ In this course I am practicing new skills.
 
 
 ###Learning the Basics
--Understanding how to use Github.
--Creating repositories
--Working with Git and GitHub locally.
+- Understanding how to use Github.
+- Creating repositories
+- Working with Git and GitHub locally.
